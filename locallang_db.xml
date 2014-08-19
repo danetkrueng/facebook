@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>database</type>
+		<description>Language labels for database tables/fields belonging to extension 'facebook'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="tt_content.list_type_pi1">Facebook plugin</label>
+			<label index="tx_facebook.pi_flexform.sheetGeneral">General</label>
+			<label index="tx_facebook.pi_flexform.sheetAppPage">Main Page</label>
+			<label index="tx_facebook.pi_flexform.sheetProfilTab">Profile - Tab</label>
+			<label index="tx_facebook.pi_flexform.sheetProfilColumns">Profile - Boxes</label>
+			<label index="tx_facebook.pi_flexform.sheetOptions">Options</label>
+			<label index="tx_facebook.pi_flexform.FBtitle">Application Name</label>
+			<label index="tx_facebook.pi_flexform.FBCanevasUrl">Canvas Page URL (what comes after http://apps.facebook.com/ in the url of the main Application page - without slashes)</label>
+			<label index="tx_facebook.pi_flexform.FBContentAppPage">Content of the main Application page (will be displayed on http://apps.facebook.com/CanevasPageURL/)</label>
+			<label index="tx_facebook.pi_flexform.FBContentProfilTab">Content of the application tab on the user profile (if none, the main Application page content will be displayed)</label>
+			<label index="tx_facebook.pi_flexform.FBContentProfilWide">Content appears only in a wide profile box (if none, the main Application page content will be displayed)</label>
+			<label index="tx_facebook.pi_flexform.FBContentProfilNarrow">Content appears only in a narrow profile box (if none, the main Application page content will be displayed)</label>
+			<label index="tx_facebook.pi_flexform.FBCssRules">Additionnal CSS rules for output rendering</label>
+			<label index="tx_facebook.pi_flexform.FBHideAddToProfilButton">Hide the "Add to profile" button on the main Application page</label>
+			<label index="tx_facebook.pi_flexform.FBShowMoreInfo">Displays a "More information" link in the profile boxes</label>
+			<label index="tx_facebook.pi_flexform.FBMoreInfoLabel">"More information" link label</label>
+			<label index="tx_facebook.pi_flexform.FBShowShareButton">Displays a "Share" button</label>
+			<label index="tx_facebook.pi_flexform.FBShareButtonType">"Share" button type</label>
+			<label index="tx_facebook.pi_flexform.FBShareButtonType.BoxCount">Button with counter over</label>
+			<label index="tx_facebook.pi_flexform.FBShareButtonType.ButtonCount">Button with counter on right</label>
+			<label index="tx_facebook.pi_flexform.FBShareButtonType.Button">Simple button</label>
+			<label index="tx_facebook.pi_flexform.FBShareButtonType.IconLink">Icon with link</label>
+			<label index="tx_facebook.pi_flexform.FBShareButtonType.Icon">Simple icon</label>
+			<label index="tx_facebook.FBMoreInfoLabelDefault">More information about this application</label>
+		</languageKey>
+		<languageKey index="fr" type="array">
+			<label index="tt_content.list_type_pi1">Plugin Facebook</label>
+			<label index="tx_facebook.pi_flexform.sheetGeneral">Général</label>
+			<label index="tx_facebook.pi_flexform.sheetAppPage">Page principale</label>
+			<label index="tx_facebook.pi_flexform.sheetProfilTab">Profil - Onglet</label>
+			<label index="tx_facebook.pi_flexform.sheetProfilColumns">Profil - Boîtes</label>
+			<label index="tx_facebook.pi_flexform.sheetOptions">Options</label>
+			<label index="tx_facebook.pi_flexform.FBtitle">Nom de l'application</label>
+			<label index="tx_facebook.pi_flexform.FBCanevasUrl">URL du canevas (ce qui vient après http://apps.facebook.com/ dans l'url de la page de présentation de l'application - sans slashes)</label>
+			<label index="tx_facebook.pi_flexform.FBContentAppPage">Contenu de la page de présentation de l'application (sera affiché sur http://apps.facebook.com/UrlDuCanevas/)</label>
+			<label index="tx_facebook.pi_flexform.FBContentProfilTab">Contenu de l'onglet de l'application sur la page de profile (si vide, le contenu de la page de présentation de l'application sera affiché)</label>
+			<label index="tx_facebook.pi_flexform.FBContentProfilWide">Contenu de la boîte "large" dans le profil (si vide, le contenu de la page de présentation de l'application sera affiché)</label>
+			<label index="tx_facebook.pi_flexform.FBContentProfilNarrow">Contenu de la boîte "étroite" dans le profil (si vide, le contenu de la page de présentation de l'application sera affiché)</label>
+			<label index="tx_facebook.pi_flexform.FBCssRules">Règles CSS supplémentaire pour le rendu des contenus</label>
+			<label index="tx_facebook.pi_flexform.FBHideAddToProfilButton">Masquer le bouton "Ajouter au profil" sur la page de présentation de l'application</label>
+			<label index="tx_facebook.pi_flexform.FBShowMoreInfo">Afficher le lien "Plus d'informations" sur les encarts de l'application sur le profil</label>
+			<label index="tx_facebook.pi_flexform.FBMoreInfoLabel">Label du lien "Plus d'informations" link label</label>
+			<label index="tx_facebook.pi_flexform.FBShowShareButton">Afficher un bouton "Partager"</label>
+			<label index="tx_facebook.pi_flexform.FBShareButtonType">Type de bouton "Partager"</label>
+			<label index="tx_facebook.pi_flexform.FBShareButtonType.BoxCount">Bouton avec compteur dessus</label>
+			<label index="tx_facebook.pi_flexform.FBShareButtonType.ButtonCount">Bouton avec compteur dessous</label>
+			<label index="tx_facebook.pi_flexform.FBShareButtonType.Button">Bouton simple</label>
+			<label index="tx_facebook.pi_flexform.FBShareButtonType.IconLink">Lien avec icone</label>
+			<label index="tx_facebook.pi_flexform.FBShareButtonType.Icon">Icone simple</label>
+			<label index="tx_facebook.FBMoreInfoLabelDefault">Plus d'informations à propos de cette application</label>
+		</languageKey>
+	</data>
+</T3locallang>

@@ -1,0 +1,19 @@
+facebookApp = PAGE
+facebookApp {  
+	typeNum = 2010
+	config {
+		disableAllHeaderCode = 1
+		disablePrefixComment = 1
+		cache_period = 0
+		xhtml_cleaning = 0
+		admPanel = 0
+	}
+
+	10 = CONTENT
+	10 {
+		table = tt_content
+		select.where = list_type='facebook_pi1'
+		renderObj < tt_content
+		renderObj.stdWrap >
+	}
+}

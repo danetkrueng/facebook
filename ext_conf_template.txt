@@ -1,0 +1,9 @@
+###
+# These are the default TS-constants for facebook 
+##
+
+# cat=plugin.tx_facebook_pi1//1; type=text; label= Facebook Api Key
+apiKey = 0
+
+# cat=plugin.tx_facebook_pi1//1; type=text; label= Facebook secret
+secretKey = 0

@@ -1,0 +1,14 @@
+(add new changes on top of this file)
+
+10-02-24 Roberto Presedo <rpresedo@cobweb.ch>
+	* Code Cleaning
+
+09-12-08 Roberto Presedo <rpresedo@cobweb.ch>
+        * Flexform to choose content to display depending of which page calls it
+        * Option : hide "Add to profile" button
+        * Option : show "More information" link
+        * Option : additionnal CSS rules
+
+09-01-13 Olivier Schopfer  <ops@wcc-coe.org>
+
+	* Initial release
